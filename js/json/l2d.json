@@ -1,1160 +1,1958 @@
-[
-  {
-    "name": "Rapi",
-    "id": "c010"
-  },
-  {
-    "name": "Rapi_old",
-    "id": "c010_01"
-  },
-  {
-    "name": "Rapi White Promise",
-    "id": "c010_02"
-  },
-  {
-    "name": "Rapi Classic Vacation",
-    "id": "c010_03",
-    "version":4.1
-  },
-  {
-    "name": "Neon",
-    "id": "c011"
-  },
-  {
-    "name": "Neon Bling Bullet",
-    "id": "c011_01"
-  },
-  {
-    "name": "Anis",
-    "id": "c012"
-  },
-  {
-    "name": "Marian",
-    "id": "c013"
-  },
-  {
-    "name": "Neon: Blue Ocean",
-    "id": "c014",
-    "version":4.1
-  },
-  {
-    "name":"Anis: Sparkling Summer",
-    "id": "c015",
-    "version":4.1
-  },
-  {
-    "name": "Delta",
-    "id": "c020"
-  },
-  {
-    "name": "Signal",
-    "id": "c022"
-  },
-  {
-    "name": "Signal Dramatic Chocolate",
-    "id": "c022_01"
-  },
-  {
-    "name": "Poli",
-    "id": "c030"
-  },
-  {
-    "name": "Poli Sweet Holic",
-    "id": "c030_01"
-  },
-  {
-    "name": "Miranda",
-    "id": "c032"
-  },
-  {
-    "name": "D",
-    "id": "c040"
-  },
-  {
-    "name": "K",
-    "id": "c041"
-  },
-  {
-    "name": "liqueur",
-    "id": "c053"
-  },
-  {
-    "name": "Belorta",
-    "id": "c060"
-  },
-  {
-    "name": "Mica",
-    "id": "c061"
-  },
-  {
-    "name": "Brid",
-    "id": "c070"
-  },
-  {
-    "name": "Brid Model Worker",
-    "id": "c070_01"
-  },
-  {
-    "name": "Brid Black Moon",
-    "id": "c070_02",
-    "version":4.1
-  },
-  {
-    "name": "Soline",
-    "id": "c071"
-  },
-  {
-    "name": "Diesel",
-    "id": "c072"
-  },
-  {
-    "name": "Diesel Black Sunday",
-    "id": "c072_01"
-  },
-  {
-    "name": "Centi",
-    "id": "c080"
-  },
-  {
-    "name": "Centi Supreme Holiday",
-    "id": "c080_01"
-  },
-  {
-    "name": "Acre",
-    "id": "c081"
-  },
-  {
-    "name": "Liter",
-    "id": "c082"
-  },
-  {
-    "name": "Liter Guardfish",
-    "id": "c082_01",
-    "version":4.1
-  },
-  {
-    "name": "Emma",
-    "id": "c090"
-  },
-  {
-    "name": "Emma Color Me Red",
-    "id": "c090_01"
-  },
-  {
-    "name": "Emma Office Therapy",
-    "id": "c090_02",
-    "version": 4.1
-  },
-  {
-    "name": "Vesti",
-    "id": "c091"
-  },
-  {
-    "name": "Eunhwa",
-    "id": "c092"
-  },
-  {
-    "name": "Laplace",
-    "id": "c100"
-  },
-  {
-    "name": "Drake",
-    "id": "c101"
-  },
-  {
-    "name": "Drake Villain Racer",
-    "id": "c101_01",
-    "version":4.1
-  },
-  {
-    "name": "Maxwell",
-    "id": "c102"
-  },
-  {
-    "name": "Maxwell Mechanic White",
-    "id": "c102_01"
-  },
-  {
-    "name": "Crow",
-    "id": "c110"
-  },
-  {
-    "name": "Jackal",
-    "id": "c111"
-  },
-  {
-    "name": "Viper",
-    "id": "c112"
-  },
-  {
-    "name": "Viper Toxic Rabbit",
-    "id": "c112_01"
-  },
-  {
-    "name": "N102",
-    "id": "c120"
-  },
-  {
-    "name":"Anne: Miracle Fairy",
-    "id": "c121"
-  },
-  {
-    "name": "c122",
-    "id": "c122"
-  },
-  {
-    "name": "Mary",
-    "id": "c130"
-  },
-  {
-    "name": "Pepper",
-    "id": "c131"
-  },
-  {
-    "name": "Pepper Ocean Vitamin",
-    "id": "c131_01",
-    "version":4.1
-  },
-  {
-    "name": "Mary: Bay Goddess",
-    "id": "c132",
-    "version":4.1
-  },
-  {
-    "name": "Sugar",
-    "id": "c140"
-  },
-  {
-    "name": "Sugar Hard-Boiled",
-    "id": "c140_01"
-  },
-  {
-    "name": "Milk",
-    "id": "c141"
-  },
-  {
-    "name": "Milk Extreme Fighter",
-    "id": "c141_01"
-  },
-  {
-    "name": "Frima",
-    "id": "c142"
-  },
-  {
-    "name": "Frima Sea of Sloth",
-    "id": "c142_01",
-    "version":4.1
-  },
-  {
-    "name": "Julia",
-    "id": "c150"
-  },
-  {
-    "name": "Julia Mild Nocturne",
-    "id": "c150_01"
-  },
-  {
-    "name": "Yuni",
-    "id": "c160"
-  },
-  {
-    "name": "Yuni Pretty In Pink",
-    "id": "c160_01"
-  },
-  {
-    "name": "Mihara",
-    "id": "c161"
-  },
-  {
-    "name": "Privaty",
-    "id": "c170"
-  },
-  {
-    "name": "Privaty Government Grunt",
-    "id": "c170_01"
-  },
-  {
-    "name": "Yulha",
-    "id": "c171"
-  },
-  {
-    "name": "Admi",
-    "id": "c172"
-  },
-  {
-    "name": "Guillotine",
-    "id": "c180"
-  },
-  {
-    "name": "Maiden",
-    "id": "c181"
-  },
-  {
-    "name": "Maiden Covert Nurse",
-    "id": "c181_01"
-  },
-  {
-    "name": "Ludmilla",
-    "id": "c190"
-  },
-  {
-    "name": "Alice",
-    "id": "c191"
-  },
-  {
-    "name": "Alice Sweet Home",
-    "id": "c191_01"
-  },
-  {
-    "name": "Neve",
-    "id": "c193"
-  },
-  {
-    "name": "Rupee",
-    "id": "c200"
-  },
-  {
-    "name": "Rupee Rabbit Deluxe",
-    "id": "c200_01",
-    "version": 4.1
-  },
-  {
-    "name": "Yan",
-    "id": "c201"
-  },
-  {
-    "name": "Yan Sunrise Market",
-    "id": "c201_01",
-    "version":4.1
-  },
-  {
-    "name": "Dolla",
-    "id": "c202"
-  },
-  {
-    "name": "Dolla Dark Rose",
-    "id": "c202_01"
-  },
-  {
-    "name": "Rupee: Winter Shopper",
-    "id":"c203"
-  },
-  {
-    "name": "Exia",
-    "id": "c210"
-  },
-  {
-    "name": "Exia Joy to the Nerds",
-    "id": "c210_01"
-  },
-  {
-    "name": "c211",
-    "id": "c211"
-  },
-  {
-    "name": "Novel",
-    "id": "c212"
-  },
-  {
-    "name": "Novel Penguin Holmes",
-    "id": "c212_01"
-  },
-  {
-    "name": "Novel Detective Nurse",
-    "id": "c212_02",
-    "version":4.1
-  },
-  {
-    "name": "Snow White",
-    "id": "c220"
-  },
-  {
-    "name": "Rapunzel",
-    "id": "c221"
-  },
-  {
-    "name": "Scarlet",
-    "id": "c222"
-  },
-  {
-    "name": "Harran",
-    "id": "c230"
-  },
-  {
-    "name": "Isabel",
-    "id": "c231"
-  },
-  {
-    "name": "Noah",
-    "id": "c232"
-  },
-  {
-    "name": "Dorothy",
-    "id": "c233"
-  },
-  {
-    "name": "Rumani",
-    "id": "c240"
-  },
-  {
-    "name": "Epinel",
-    "id": "c241"
-  },
-  {
-    "name": "Folkwang",
-    "id": "c242"
-  },
-  {
-    "name": "c250",
-    "id": "c250"
-  },
-  {
-    "name": "Mass Produced Blue",
-    "id": "c251"
-  },
-  {
-    "name": "Mass Produced Orange",
-    "id": "c252"
-  },
-  {
-    "name": "Mass Produced Green",
-    "id": "c253"
-  },
-  {
-    "name": "Mass Produced Purple",
-    "id": "c254"
-  },
-  {
-    "name": "Mass Produced White",
-    "id": "c255"
-  },
-  {
-    "name": "Modernia",
-    "id": "c260"
-  },
-  {
-    "name": "Modernia First Affection",
-    "id": "c260_01",
-    "version":4.1
-  },
-  {
-    "name": "Nihilister",
-    "id": "c261"
-  },
-  {
-    "name": "Liberalio",
-    "id": "c262"
-  },
-  {
-    "name": "Indivilia",
-    "id": "c263",
-    "version":4.1
-  },
-  {
-    "name": "Blanc",
-    "id": "c270",
-    "version": 4.1
-  },
-  {
-    "name": "Noir",
-    "id": "c271",
-    "version": 4.1
-  },
-  {
-    "name": "Rouge",
-    "id": "c272",
-    "version": 4.1
-  },
-  {
-    "name": "Rosanna",
-    "id": "c280",
-    "version":4.1
-  },
-  {
-    "name": "Moran",
-    "id": "c281"
-  },
-  {
-    "name": "Sakura",
-    "id": "c282"
-  },
-  {
-    "name": "Sakura Midnight Stealth",
-    "id": "c282_01",
-    "version":4.1
-  },
-  {
-    "name": "Mana",
-    "id": "c290"
-  },
-  {
-    "name": "Ether",
-    "id": "c291"
-  },
-  {
-    "name": "Soldier EG",
-    "id": "c300"
-  },
-  {
-    "name": "Soldier FA",
-    "id": "c301"
-  },
-  {
-    "name": "Product 08",
-    "id": "c302"
-  },
-  {
-    "name": "Product 12",
-    "id": "c303"
-  },
-  {
-    "name": "iDoll Flower",
-    "id": "c304"
-  },
-  {
-    "name": "iDoll Ocean",
-    "id": "c305"
-  },
-  {
-    "name": "Soldier OW",
-    "id": "c306"
-  },
-  {
-    "name": "Product 23",
-    "id": "c307"
-  },
-  {
-    "name": "iDoll Sun",
-    "id": "c308"
-  },
-  {
-    "name": "Ade",
-    "id": "c310"
-  },
-  {
-    "name": "Cocoa",
-    "id": "c311"
-  },
-  {
-    "name": "Soda",
-    "id": "c312"
-  },
-  {
-    "name": "Bibli",
-    "id": "c320"
-  },
-  {
-    "name": "Marciana",
-    "id": "c321",
-    "version":4.1
-  },
-  {
-    "name": "Crown",
-    "id": "c330",
-    "version":4.1
-  },
-  {
-    "name": "Chime",
-    "id": "c331",
-    "version":4.1
-  },
-  {
-    "name": "Siren",
-    "id": "c340"
-  },
-  {
-    "name": "Pin",
-    "id": "c342"
-  },
-  {
-    "name": "Mast",
-    "id": "c350",
-    "version":4.1
-  },
-  {
-    "name": "Mast A Pirate's Heart",
-    "id": "c350_01",
-    "version":4.1
-  },
-  {
-    "name": "Mast_old",
-    "id": "c350_old"
-  },
-  {
-    "name": "Anchor",
-    "id": "c351",
-    "version":4.1
-  },
-  {
-    "name": "Helm",
-    "id": "c352"
-  },
-  {
-    "name": "Helm Chandelier",
-    "id": "c352_01"
-  },
-  {
-    "name": "Helm: Aquamarine",
-    "id": "c353",
-    "version":4.1
-  },
-  {
-    "name": "Kilo",
-    "id": "c361"
-  },
-  {
-    "name": "Endless",
-    "id": "c371"
-  },
-  {
-    "name": "Nero",
-    "id": "c380",
-    "version":4.1
-  },
-  {
-    "name": "Biscuit",
-    "id": "c381"
-  },
-  {
-    "name": "Leona",
-    "id": "c382",
-    "version": 4.1
-  },
-  {
-    "name": "Zwei",
-    "id": "c390"
-  },
-  {
-    "name": "Ein",
-    "id": "c391"
-  },
-  {
-    "name": "Rei",
-    "id": "c392"
-  },
-  {
-    "name": "Guilty",
-    "id": "c400"
-  },
-  {
-    "name": "Sin",
-    "id": "c401"
-  },
-  {
-    "name":"Quency",
-    "id":"c402"
-  },
-  {
-    "name": "Noise",
-    "id": "c430"
-  },
-  {
-    "name": "Noise Cherry Blossom Stage",
-    "id": "c430_01"
-  },
-  {
-    "name": "Volume",
-    "id": "c431"
-  },
-  {
-    "name": "Aria",
-    "id": "c432"
-  },
-  {
-    "name": "Naga",
-    "id": "c450",
-    "version":4.1
-  },
-  {
-    "name": "Tia",
-    "id": "c451",
-    "version":4.1
-  },
-  {
-    "name": "Red Hood",
-    "id": "c470",
-    "version":4.1
-  },
-  {
-    "name":"Makima",
-    "id":"c800"
-  },
-  {
-    "name":"Makima Coat Off",
-    "id":"c800_01"
-  },
-  {
-    "name":"Power",
-    "id":"c801"
-  },
-  {
-    "name":"Himeno",
-    "id":"c802"
-  },
-  {
-    "name":"Denji",
-    "id": "c803"
-  },
-  {
-    "name":"Denji Chainsaw Man",
-    "id": "c803_01"
-  },
-  {
-    "name":"Aki Hayakawa",
-    "id": "c804"
-  },
-  {
-    "name":"2B",
-    "id": "c810",
-    "version":4.1
-  },
-  {
-    "name":"2B Metamorphic Damage",
-    "id": "c810_01",
-    "version":4.1
-  },
-  {
-    "name":"2B YoRHa Uniform 1",
-    "id": "c810_02",
-    "version":4.1
-  },
-  {
-    "name":"A2",
-    "id": "c811",
-    "version":4.1
-  },
-  {
-    "name":"A2 Metamorphic Damage",
-    "id": "c811_01",
-    "version":4.1
-  },
-  {
-    "name":"A2 YoRHa Uniform Prototype",
-    "id": "c811_02",
-    "version":4.1
-  },
-  {
-    "name":"Pascal",
-    "id": "c812",
-    "version":4.1
-  },
-  {
-    "name":"9S",
-    "id": "c813",
-    "version":4.1
-  },
-  {
-    "name": "Ingrid",
-    "id": "c900"
-  },
-  {
-    "name": "Syuen",
-    "id": "c901",
-    "version":4.1
-  },
-  {
-    "name": "Mustang",
-    "id": "c902"
-  },
-  {
-    "name": "Andersen",
-    "id": "c903"
-  },
-  {
-    "name": "Andersen Soaked",
-    "id": "c903_01"
-  },
-  {
-    "name": "Enikk",
-    "id": "c904"
-  },
-  {
-    "name": "Rian",
-    "id":"c905"
-  },
-  {
-    "name": "Shifty",
-    "id": "c907"
-  },
-  {
-    "name": "Shifty_old",
-    "id": "c907_01"
-  },
-  {
-    "id":"c908",
-    "name":"Papillon"
-  },
-  {
-    "name": "Hologram",
-    "id": "c910"
-  },
-  {
-    "name": "Faceless Man",
-    "id": "c911"
-  },
-  {
-    "name": "Faceless Woman",
-    "id": "c912"
-  },
-  {
-    "name": "c913",
-    "id": "c913"
-  },
-  {
-    "name": "Burningum",
-    "id": "c914"
-  },
-  {
-    "name": "Faceless NPC 1",
-    "id": "c916"
-  },
-  {
-    "name": "Faceless NPC 2",
-    "id": "c917"
-  },
-  {
-    "name": "Faceless NPC 3",
-    "id": "c918"
-  },
-  {
-    "name": "Faceless NPC 4",
-    "id": "c919"
-  },
-  {
-    "name": "Faceless NPC 5",
-    "id": "c920"
-  },
-  {
-    "name": "Faceless NPC 6",
-    "id": "c921"
-  },
-  {
-    "name": "Faceless NPC 7",
-    "id": "c922"
-  },
-  {
-    "name": "Faceless NPC 8",
-    "id": "c923"
-  },
-  {
-    "name": "Faceless NPC 9",
-    "id": "c924"
-  },
-  {
-    "name":"Johan",
-    "id":"c925"
-  },
-  {
-    "name": "Einkk",
-    "id": "c928"
-  },
-  {
-    "name": "Cecil",
-    "id":"c929"
-  },
-  {
-    "name": "Beatrice",
-    "id":"c930"
-  },
-  {
-    "name": "Collection Robot",
-    "id":"c931"
-  },
-  {
-    "name": "Bolt Junior",
-    "id": "c932"
-  },
-  {
-    "name": "Bolt",
-    "id": "c933"
-  },
-  {
-    "name": "Angelina",
-    "id": "c934"
-  },
-  {
-    "name": "Joseph",
-    "id": "c935"
-  },
-  {
-    "name": "Max",
-    "id": "c936"
-  },
-  {
-    "name": "Booboo",
-    "id": "c937"
-  },
-  {
-    "name": "Doban",
-    "id": "c939"
-  },
-  {
-    "name": "E.H.",
-    "id": "c940"
-  },
-  {
-    "name": "Pinne",
-    "id": "c941"
-  },
-  {
-    "name": "Katie",
-    "id": "c945",
-    "version":4.1
-  },
-  {
-    "name": "Ruru",
-    "id": "c946",
-    "version":4.1
-  },
-  {
-    "name": "Product 12: B-0006",
-    "id": "c962",
-    "version":4.1
-  },
-  {
-    "name": "Product 12: C-1002",
-    "id": "c963",
-    "version":4.1
-  },
-  {
-    "name": "Product 12: 6000-D",
-    "id": "c964",
-    "version":4.1
-  },
-  {
-    "name":"Self",
-    "id":"c9999"
-  },
-  {
-    "name":"Choice",
-    "id":"c9999"
-  },
-  {
-    "name": "Blue Water Island",
-    "id": "bluewaterisland",
-    "version":4.1
-  },
-  {
-    "name": "Bow Wow Paradise",
-    "id": "bowwowparadise",
-    "version":4.1
-  },
-  {
-    "name": "777",
-    "id": "777",
-    "version":4.1
-  },
-  {
-    "name": "Cherry Blossom",
-    "id": "cherryblossom",
-    "version":4.1
-  },
-  {
-    "name": "License to Kill",
-    "id": "ltk",
-    "version":4.1
-  },
-  {
-    "name": "Maid in Valentine",
-    "id": "maidinvalentine",
-    "version":4.1
-  },
-  {
-    "name": "Queen's Order",
-    "id": "queensorder",
-    "version":4.1
-  },
-  {
-    "name": "Nya Nya Paradise",
-    "id": "nyanyaparadise",
-    "version":4.1
-  },
-  {
-    "name": "Golden Ship",
-    "id": "goldenship",
-    "version":4.1
-  },
-  {
-    "name": "Sea You Again",
-    "id": "seayouagain",
-    "version":4.1
-  },
-  {
-    "name":"Outer Automata",
-    "id": "outerautomata",
-    "version":4.1
-  },
-  {
-    "name":"No Caller ID",
-    "id": "nocallerid",
-    "version":4.1
-  },
-  {
-    "name":"School Of Lock",
-    "id": "schooloflock",
-    "version":4.1
-  },
-  {
-    "id":"smol_anchor",
-    "name":"Smol Anchor",
-    "version":4.1
-  },
-  {
-    "name": "Smol Bolt",
-    "id":"smol_bolt",
-    "version":4.1
-  },
-  {
-    "name": "Smol Frima",
-    "id":"smol_frima",
-    "version":4.1
-  },
-  {
-    "name": "Smol Helm",
-    "id":"smol_helm",
-    "version":4.1
-  },
-  {
-    "name": "Smol Liter",
-    "id":"smol_liter",
-    "version":4.1
-  },
-  {
-    "name": "Smol Mary",
-    "id":"smol_mary",
-    "version":4.1
-  },
-  {
-    "name":"Smol Mast",
-    "id": "smol_mast",
-    "version":4.1
-  },
-  {
-    "name": "Smol Pepper",
-    "id":"smol_pepper",
-    "version":4.1
-  },
-  {
-    "name": "Smol Rapi",
-    "id":"smol_rapi",
-    "version":4.1
-  },
-  {
-    "name": "Smol Yan",
-    "id":"smol_yan",
-    "version":4.1
-  },
-  {
-    "name": "Story 00-01",
-    "id": "story0001",
-    "version":4.1
-  },
-  {
-    "name": "Story 00-01 no filter",
-    "id": "story0001_2",
-    "version":4.1
-  },
-  {
-    "name": "Story 00-02",
-    "id": "story0002"
-  },
-  {
-    "name": "Story 00-02 no filter",
-    "id": "story0002_2"
-  },
-  {
-    "name": "Story 00-03",
-    "id": "story0003",
-    "version":4.1
-  },
-  {
-    "name": "Story 02-01",
-    "id": "story0201",
-    "version":4.1
-  },
-  {
-    "name": "Story 04-01",
-    "id": "story0401",
-    "version":4.1
-  },
-  {
-    "name": "Story 04-02",
-    "id": "story0401_2",
-    "version":4.1
-  },
-  {
-    "name": "Story 04-05",
-    "id": "story0405",
-    "version":4.1
-  },
-  {
-    "name": "Story 07-02",
-    "id": "story0702",
-    "version":4.1
-  },
-  {
-    "name": "Story 12-01",
-    "id": "story1201",
-    "version":4.1
-  },
-  
-  {
-    "name": "Story 13-02",
-    "id": "story1302",
-    "version":4.1
-  },
-  
-  {
-    "name": "Story 13-03",
-    "id": "story1303",
-    "version":4.1
-  },
-  {
-    "name": "Story 14-01",
-    "id": "story1401"
-  },
-  
-  {
-    "name": "Story 14-03",
-    "id": "story1403",
-    "version":4.1
-  },
-  
-  {
-    "name": "Story 14-05",
-    "id": "story1405",
-    "version":4.1
-  },
-  
-  {
-    "name": "Story 15-01",
-    "id": "story1501",
-    "version":4.1
-  },
-  {
-    "name": "Story 19-01",
-    "id": "story1902"
-  },
-  {
-    "name": "Story 20-01",
-    "id": "story2002"
-  },
-  {
-    "name": "Story 21-01",
-    "id": "story2101"
-  },
-  {
-    "name": "Story 22-01",
-    "id": "story2201",
-    "version":4.1
-  },
-  {
-    "name": "Story 22-02",
-    "id": "story2202",
-    "version":4.1
-  },
-  {
-    "name": "Story 22-06",
-    "id": "story2206"
-  }
-]
+{
+  "nikkeMap": [
+    {
+      "name": "Rapi",
+      "id": "c010",
+      "idle": "l2d/c010/Spine GameObject (c010_00).prefab",
+      "battle": "l2d/c010/Spine GameObject (c010_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Rapi_old",
+      "id": "c010_01",
+      "idle": "l2d/c010_01/Spine GameObject (c010_01_00).prefab",
+      "battle": "l2d/c010_01/Spine GameObject (c010_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Rapi White Promise",
+      "id": "c010_02",
+      "idle": "l2d/c010_02/Spine GameObject (c010_02_00).prefab",
+      "battle": "l2d/c010_02/Spine GameObject (c010_02_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Rapi Classic Vacation",
+      "id": "c010_03",
+      "idle": "l2d/c010_03/Spine GameObject (c010_03_00).prefab",
+      "battle": "l2d/c010_03/Spine GameObject (c010_03_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Neon",
+      "id": "c011",
+      "idle": "l2d/c011/Spine GameObject (c011_00).prefab",
+      "battle": "l2d/c011/Spine GameObject (c011_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Neon Bling Bullet",
+      "id": "c011_01",
+      "idle": "l2d/c011_01/Spine GameObject (c011_01_00).prefab",
+      "battle": "l2d/c011_01/Spine GameObject (c011_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Anis",
+      "id": "c012",
+      "idle": "l2d/c012/Spine GameObject (c012_00).prefab",
+      "battle": "l2d/c012/Spine GameObject (c012_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Marian",
+      "id": "c013",
+      "idle": "l2d/c013/Spine GameObject (c013_00).prefab",
+      "battle": "l2d/c013/Spine GameObject (c013_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Neon: Blue Ocean",
+      "id": "c014",
+      "idle": "l2d/c014/Spine GameObject (c014_00).prefab",
+      "battle": "l2d/c014/Spine GameObject (c014_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Anis: Sparkling Summer",
+      "id": "c015",
+      "idle": "l2d/c015/Spine GameObject (c015_00).prefab",
+      "battle": "l2d/c015/Spine GameObject (c015_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Delta",
+      "id": "c020",
+      "idle": "l2d/c020/Spine GameObject (c020_00).prefab",
+      "battle": "l2d/c020/Spine GameObject (c020_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Signal",
+      "id": "c022",
+      "idle": "l2d/c022/Spine GameObject (c022_00).prefab",
+      "battle": "l2d/c022/Spine GameObject (c022_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Signal Dramatic Chocolate",
+      "id": "c022_01",
+      "idle": "l2d/c022_01/Spine GameObject (c022_01_00).prefab",
+      "battle": "l2d/c022_01/Spine GameObject (c022_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Poli",
+      "id": "c030",
+      "idle": "l2d/c030/Spine GameObject (c030_00).prefab",
+      "battle": "l2d/c030/Spine GameObject (c030_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Poli Sweet Holic",
+      "id": "c030_01",
+      "idle": "l2d/c030_01/Spine GameObject (c030_01_00).prefab",
+      "battle": "l2d/c030_01/Spine GameObject (c030_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Miranda",
+      "id": "c032",
+      "idle": "l2d/c032/Spine GameObject (c032_00).prefab",
+      "battle": "l2d/c032/Spine GameObject (c032_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Quiry",
+      "id": "c033",
+      "idle": "l2d/c033/Spine GameObject (c033_00).prefab",
+      "battle": "l2d/c033/Spine GameObject (c033_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "D",
+      "id": "c040",
+      "idle": "l2d/c040/Spine GameObject (c040_00).prefab",
+      "battle": "l2d/c040/Spine GameObject (c040_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "K",
+      "id": "c041",
+      "idle": "l2d/c041/Spine GameObject (c041_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "liqueur",
+      "id": "c053",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Belorta",
+      "id": "c060",
+      "idle": "l2d/c060/Spine GameObject (c060_00).prefab",
+      "battle": "l2d/c060/Spine GameObject (c060_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Mica",
+      "id": "c061",
+      "idle": "l2d/c061/Spine GameObject (c061_00).prefab",
+      "battle": "l2d/c061/Spine GameObject (c061_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Brid",
+      "id": "c070",
+      "idle": "l2d/c070/Spine GameObject (c070_00).prefab",
+      "battle": "l2d/c070/Spine GameObject (c070_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Brid Model Worker",
+      "id": "c070_01",
+      "idle": "l2d/c070_01/Spine GameObject (c070_01_00).prefab",
+      "battle": "l2d/c070_01/Spine GameObject (c070_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Brid Black Moon",
+      "id": "c070_02",
+      "idle": "l2d/c070_02/Spine GameObject (c070_02_00).prefab",
+      "battle": "l2d/c070_02/Spine GameObject (c070_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Soline",
+      "id": "c071",
+      "idle": "l2d/c071/Spine GameObject (c071_00).prefab",
+      "battle": "l2d/c071/Spine GameObject (c071_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Diesel",
+      "id": "c072",
+      "idle": "l2d/c072/Spine GameObject (c072_00).prefab",
+      "battle": "l2d/c072/Spine GameObject (c072_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Diesel Black Sunday",
+      "id": "c072_01",
+      "idle": "l2d/c072_01/Spine GameObject (c072_01_00).prefab",
+      "battle": "l2d/c072_01/Spine GameObject (c072_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Diesel Strawberry Flower",
+      "id": "c072_02",
+      "idle": "l2d/c072_02/Spine GameObject (c072_02_00).prefab",
+      "battle": "l2d/c072_02/Spine GameObject (c072_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Centi",
+      "id": "c080",
+      "idle": "l2d/c080/Spine GameObject (c080_00).prefab",
+      "battle": "l2d/c080/Spine GameObject (c080_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Centi Supreme Holiday",
+      "id": "c080_01",
+      "idle": "l2d/c080_01/Spine GameObject (c080_01_00).prefab",
+      "battle": "l2d/c080_01/Spine GameObject (c080_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Acre",
+      "id": "c081",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Liter",
+      "id": "c082",
+      "idle": "l2d/c082/Spine GameObject (c082_00).prefab",
+      "battle": "l2d/c082/Spine GameObject (c082_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Liter Guardfish",
+      "id": "c082_01",
+      "idle": "l2d/c082_01/Spine GameObject (c082_01_00).prefab",
+      "battle": "l2d/c082_01/Spine GameObject (c082_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Emma",
+      "id": "c090",
+      "idle": "l2d/c090/Spine GameObject (c090_00).prefab",
+      "battle": "l2d/c090/Spine GameObject (c090_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Emma Color Me Red",
+      "id": "c090_01",
+      "idle": "l2d/c090_01/Spine GameObject (c090_01_00).prefab",
+      "battle": "l2d/c090_01/Spine GameObject (c090_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Emma Office Therapy",
+      "id": "c090_02",
+      "idle": "l2d/c090_02/Spine GameObject (c090_02_00).prefab",
+      "battle": "l2d/c090_02/Spine GameObject (c090_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Vesti",
+      "id": "c091",
+      "idle": "l2d/c091/Spine GameObject (c091_00).prefab",
+      "battle": "l2d/c091/Spine GameObject (c091_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Eunhwa",
+      "id": "c092",
+      "idle": "l2d/c092/Spine GameObject (c092_00).prefab",
+      "battle": "l2d/c092/Spine GameObject (c092_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Laplace",
+      "id": "c100",
+      "idle": "l2d/c100/Spine GameObject (c100_00).prefab",
+      "battle": "l2d/c100/Spine GameObject (c100_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Drake",
+      "id": "c101",
+      "idle": "l2d/c101/Spine GameObject (c101_00).prefab",
+      "battle": "l2d/c101/Spine GameObject (c101_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Drake Villain Racer",
+      "id": "c101_01",
+      "idle": "l2d/c101_01/Spine GameObject (c101_01_00).prefab",
+      "battle": "l2d/c101_01/Spine GameObject (c101_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Maxwell",
+      "id": "c102",
+      "idle": "l2d/c102/Spine GameObject (c102_00).prefab",
+      "battle": "l2d/c102/Spine GameObject (c102_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Maxwell Mechanic White",
+      "id": "c102_01",
+      "idle": "l2d/c102_01/Spine GameObject (c102_01_00).prefab",
+      "battle": "l2d/c102_01/Spine GameObject (c102_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Crow",
+      "id": "c110",
+      "idle": "l2d/c110/Spine GameObject (c110_00).prefab",
+      "battle": "l2d/c110/Spine GameObject (c110_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Jackal",
+      "id": "c111",
+      "idle": "l2d/c111/Spine GameObject (c111_00).prefab",
+      "battle": "l2d/c111/Spine GameObject (c111_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Viper",
+      "id": "c112",
+      "idle": "l2d/c112/Spine GameObject (c112_00).prefab",
+      "battle": "l2d/c112/Spine GameObject (c112_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Viper Toxic Rabbit",
+      "id": "c112_01",
+      "idle": "l2d/c112_01/Spine GameObject (c112_01_00).prefab",
+      "battle": "l2d/c112_01/Spine GameObject (c112_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "N102",
+      "id": "c120",
+      "idle": "l2d/c120/Spine GameObject (c120_00).prefab",
+      "battle": "l2d/c120/Spine GameObject (c120_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Anne: Miracle Fairy",
+      "id": "c121",
+      "idle": "l2d/c121/Spine GameObject (c121_00).prefab",
+      "battle": "l2d/c121/Spine GameObject (c121_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "c122",
+      "id": "c122",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Mary",
+      "id": "c130",
+      "idle": "l2d/c130/Spine GameObject (c130_00).prefab",
+      "battle": "l2d/c130/Spine GameObject (c130_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Pepper",
+      "id": "c131",
+      "idle": "l2d/c131/Spine GameObject (c131_00).prefab",
+      "battle": "l2d/c131/Spine GameObject (c131_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Pepper Ocean Vitamin",
+      "id": "c131_01",
+      "idle": "l2d/c131_01/Spine GameObject (c131_01_00).prefab",
+      "battle": "l2d/c131_01/Spine GameObject (c131_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Mary: Bay Goddess",
+      "id": "c132",
+      "idle": "l2d/c132/Spine GameObject (c132_00).prefab",
+      "battle": "l2d/c132/Spine GameObject (c132_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Sugar",
+      "id": "c140",
+      "idle": "l2d/c140/Spine GameObject (c140_00).prefab",
+      "battle": "l2d/c140/Spine GameObject (c140_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Sugar Hard-Boiled",
+      "id": "c140_01",
+      "idle": "l2d/c140_01/Spine GameObject (c140_01_00).prefab",
+      "battle": "l2d/c140_01/Spine GameObject (c140_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Milk",
+      "id": "c141",
+      "idle": "l2d/c141/Spine GameObject (c141_00).prefab",
+      "battle": "l2d/c141/Spine GameObject (c141_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Milk Extreme Fighter",
+      "id": "c141_01",
+      "idle": "l2d/c141_01/Spine GameObject (c141_01_00).prefab",
+      "battle": "l2d/c141_01/Spine GameObject (c141_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Frima",
+      "id": "c142",
+      "idle": "l2d/c142/Spine GameObject (c142_00).prefab",
+      "battle": "l2d/c142/Spine GameObject (c142_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Frima Sea of Sloth",
+      "id": "c142_01",
+      "idle": "l2d/c142_01/Spine GameObject (c142_01_00).prefab",
+      "battle": "l2d/c142_01/Spine GameObject (c142_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Julia",
+      "id": "c150",
+      "idle": "l2d/c150/Spine GameObject (c150_00).prefab",
+      "battle": "l2d/c150/Spine GameObject (c150_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Julia Mild Nocturne",
+      "id": "c150_01",
+      "idle": "l2d/c150_01/Spine GameObject (c150_01_00).prefab",
+      "battle": "l2d/c150_01/Spine GameObject (c150_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Yuni",
+      "id": "c160",
+      "idle": "l2d/c160/Spine GameObject (c160_00).prefab",
+      "battle": "l2d/c160/Spine GameObject (c160_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Yuni Pretty In Pink",
+      "id": "c160_01",
+      "idle": "l2d/c160_01/Spine GameObject (c160_01_00).prefab",
+      "battle": "l2d/c160_01/Spine GameObject (c160_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Mihara",
+      "id": "c161",
+      "idle": "l2d/c161/Spine GameObject (c161_00).prefab",
+      "battle": "l2d/c161/Spine GameObject (c161_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Privaty",
+      "id": "c170",
+      "idle": "l2d/c170/Spine GameObject (c170_00).prefab",
+      "battle": "l2d/c170/Spine GameObject (c170_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Privaty Government Grunt",
+      "id": "c170_01",
+      "idle": "l2d/c170_01/Spine GameObject (c170_01_00).prefab",
+      "battle": "l2d/c170_01/Spine GameObject (c170_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Privaty Banquet Princess",
+      "id": "c170_02",
+      "idle": "l2d/c170_02/Spine GameObject (c170_02_00).prefab",
+      "battle": "l2d/c170_02/Spine GameObject (c170_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Yulha",
+      "id": "c171",
+      "idle": "l2d/c171/Spine GameObject (c171_00).prefab",
+      "battle": "l2d/c171/Spine GameObject (c171_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Admi",
+      "id": "c172",
+      "idle": "l2d/c172/Spine GameObject (c172_00).prefab",
+      "battle": "l2d/c172/Spine GameObject (c172_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Guillotine",
+      "id": "c180",
+      "idle": "l2d/c180/Spine GameObject (c180_00).prefab",
+      "battle": "l2d/c180/Spine GameObject (c180_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Maiden",
+      "id": "c181",
+      "idle": "l2d/c181/Spine GameObject (c181_00).prefab",
+      "battle": "l2d/c181/Spine GameObject (c181_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Maiden Covert Nurse",
+      "id": "c181_01",
+      "idle": "l2d/c181_01/Spine GameObject (c181_01_00).prefab",
+      "battle": "l2d/c181_01/Spine GameObject (c181_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Ludmilla",
+      "id": "c190",
+      "idle": "l2d/c190/Spine GameObject (c190_00).prefab",
+      "battle": "l2d/c190/Spine GameObject (c190_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Alice",
+      "id": "c191",
+      "idle": "l2d/c191/Spine GameObject (c191_00).prefab",
+      "battle": "l2d/c191/Spine GameObject (c191_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Alice Sweet Home",
+      "id": "c191_01",
+      "idle": "l2d/c191_01/Spine GameObject (c191_01_00).prefab",
+      "battle": "l2d/c191_01/Spine GameObject (c191_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Neve",
+      "id": "c193",
+      "idle": "l2d/c193/Spine GameObject (c193_00).prefab",
+      "battle": "l2d/c193/Spine GameObject (c193_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Rupee",
+      "id": "c200",
+      "idle": "l2d/c200/Spine GameObject (c200_00).prefab",
+      "battle": "l2d/c200/Spine GameObject (c200_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Rupee",
+      "id": "c200_99"
+    },
+    {
+      "name": "Rupee Rabbit Deluxe",
+      "id": "c200_01",
+      "idle": "l2d/c200_01/Spine GameObject (c200_01_00).prefab",
+      "battle": "l2d/c200_01/Spine GameObject (c200_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Yan",
+      "id": "c201",
+      "idle": "l2d/c201/Spine GameObject (c201_00).prefab",
+      "battle": "l2d/c201/Spine GameObject (c201_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Yan Sunrise Market",
+      "id": "c201_01",
+      "idle": "l2d/c201_01/Spine GameObject (c201_01_00).prefab",
+      "battle": "l2d/c201_01/Spine GameObject (c201_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Dolla",
+      "id": "c202",
+      "idle": "l2d/c202/Spine GameObject (c202_00).prefab",
+      "battle": "l2d/c202/Spine GameObject (c202_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Dolla Dark Rose",
+      "id": "c202_01",
+      "idle": "l2d/c202_01/Spine GameObject (c202_01_00).prefab",
+      "battle": "l2d/c202_01/Spine GameObject (c202_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Rupee: Winter Shopper",
+      "id": "c203",
+      "idle": "l2d/c203/Spine GameObject (c203_00).prefab",
+      "battle": "l2d/c203/Spine GameObject (c203_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Exia",
+      "id": "c210",
+      "idle": "l2d/c210/Spine GameObject (c210_00).prefab",
+      "battle": "l2d/c210/Spine GameObject (c210_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Exia Joy to the Nerds",
+      "id": "c210_01",
+      "idle": "l2d/c210_01/Spine GameObject (c210_01_00).prefab",
+      "battle": "l2d/c210_01/Spine GameObject (c210_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "c211",
+      "id": "c211",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Novel",
+      "id": "c212",
+      "idle": "l2d/c212/Spine GameObject (c212_00).prefab",
+      "battle": "l2d/c212/Spine GameObject (c212_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Novel Penguin Holmes",
+      "id": "c212_01",
+      "idle": "l2d/c212_01/Spine GameObject (c212_01_00).prefab",
+      "battle": "l2d/c212_01/Spine GameObject (c212_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Novel Detective Nurse",
+      "id": "c212_02",
+      "idle": "l2d/c212_02/Spine GameObject (c212_02_00).prefab",
+      "battle": "l2d/c212_02/Spine GameObject (c212_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Snow White",
+      "id": "c220",
+      "idle": "l2d/c220/Spine GameObject (c220_00).prefab",
+      "battle": "l2d/c220/Spine GameObject (c220_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Snow White: Innocent Days",
+      "id": "c224"
+    },
+    {
+      "name": "Rapunzel",
+      "id": "c221",
+      "idle": "l2d/c221/Spine GameObject (c221_00).prefab",
+      "battle": "l2d/c221/Spine GameObject (c221_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Scarlet",
+      "id": "c222",
+      "idle": "l2d/c222/Spine GameObject (c222_00).prefab",
+      "battle": "l2d/c222/Spine GameObject (c222_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Harran",
+      "id": "c230",
+      "idle": "l2d/c230/Spine GameObject (c230_00).prefab",
+      "battle": "l2d/c230/Spine GameObject (c230_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Harran Banquet Witch",
+      "id": "c230_01"
+    },
+    {
+      "name": "Isabel",
+      "id": "c231",
+      "idle": "l2d/c231/Spine GameObject (c231_00).prefab",
+      "battle": "l2d/c231/Spine GameObject (c231_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Noah",
+      "id": "c232",
+      "idle": "l2d/c232/Spine GameObject (c232_00).prefab",
+      "battle": "l2d/c232/Spine GameObject (c232_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Dorothy",
+      "id": "c233",
+      "idle": "l2d/c233/Spine GameObject (c233_00).prefab",
+      "battle": "l2d/c233/Spine GameObject (c233_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Dorothy Nostalgia",
+      "id": "c233_01"
+    },
+    {
+      "name": "Rumani",
+      "id": "c240",
+      "idle": "l2d/c240/Spine GameObject (c240_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Epinel",
+      "id": "c241",
+      "idle": "l2d/c241/Spine GameObject (c241_00).prefab",
+      "battle": "l2d/c241/Spine GameObject (c241_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Folkwang",
+      "id": "c242",
+      "idle": "l2d/c242/Spine GameObject (c242_00).prefab",
+      "battle": "l2d/c242/Spine GameObject (c242_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "c250",
+      "id": "c250"
+    },
+    {
+      "name": "Mass Produced Blue",
+      "id": "c251",
+      "idle": "l2d/c251/Spine GameObject (c251_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Mass Produced Orange",
+      "id": "c252",
+      "idle": "l2d/c252/Spine GameObject (c252_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Mass Produced Green",
+      "id": "c253",
+      "idle": "l2d/c253/Spine GameObject (c253_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Mass Produced Purple",
+      "id": "c254",
+      "idle": "l2d/c254/Spine GameObject (c254_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Mass Produced White",
+      "id": "c255",
+      "idle": "l2d/c255/Spine GameObject (c255_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Modernia",
+      "id": "c260",
+      "idle": "l2d/c260/Spine GameObject (c260_00).prefab",
+      "battle": "l2d/c260/Spine GameObject (c260_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Modernia First Affection",
+      "id": "c260_01",
+      "idle": "l2d/c260_01/Spine GameObject (c260_01_00).prefab",
+      "battle": "l2d/c260_01/Spine GameObject (c260_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Nihilister",
+      "id": "c261",
+      "idle": "l2d/c261/Spine GameObject (c261_00).prefab",
+      "battle": "l2d/c261/Spine GameObject (c261_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Liberalio",
+      "id": "c262",
+      "idle": "l2d/c262/Spine GameObject (c262_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Indivilia",
+      "id": "c263",
+      "idle": "l2d/c263/Spine GameObject (c263_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Blanc",
+      "id": "c270",
+      "idle": "l2d/c270/Spine GameObject (c270_00).prefab",
+      "battle": "l2d/c270/Spine GameObject (c270_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Noir",
+      "id": "c271",
+      "idle": "l2d/c271/Spine GameObject (c271_00).prefab",
+      "battle": "l2d/c271/Spine GameObject (c271_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Rouge",
+      "id": "c272",
+      "idle": "l2d/c272/Spine GameObject (c272_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Rosanna",
+      "id": "c280",
+      "idle": "l2d/c280/Spine GameObject (c280_00).prefab",
+      "battle": "l2d/c280/Spine GameObject (c280_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Moran",
+      "id": "c281",
+      "idle": "l2d/c281/Spine GameObject (c281_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Sakura",
+      "id": "c282",
+      "idle": "l2d/c282/Spine GameObject (c282_00).prefab",
+      "battle": "l2d/c282/Spine GameObject (c282_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Sakura Midnight Stealth",
+      "id": "c282_01",
+      "idle": "l2d/c282_01/Spine GameObject (c282_01_00).prefab",
+      "battle": "l2d/c282_01/Spine GameObject (c282_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Mana",
+      "id": "c290",
+      "idle": "l2d/c290/Spine GameObject (c290_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Ether",
+      "id": "c291",
+      "idle": "l2d/c291/Spine GameObject (c291_00).prefab",
+      "battle": "l2d/c291/Spine GameObject (c291_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Soldier EG",
+      "id": "c300",
+      "idle": "l2d/c300/Spine GameObject (c300_00).prefab",
+      "battle": "l2d/c300/Spine GameObject (c300_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Soldier FA",
+      "id": "c301",
+      "idle": "l2d/c301/Spine GameObject (c301_00).prefab",
+      "battle": "l2d/c301/Spine GameObject (c301_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Product 08",
+      "id": "c302",
+      "idle": "l2d/c302/Spine GameObject (c302_00).prefab",
+      "battle": "l2d/c302/Spine GameObject (c302_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Product 12",
+      "id": "c303",
+      "idle": "l2d/c303/Spine GameObject (c303_00).prefab",
+      "battle": "l2d/c303/Spine GameObject (c303_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "iDoll Flower",
+      "id": "c304",
+      "idle": "l2d/c304/Spine GameObject (c304_00).prefab",
+      "battle": "l2d/c304/Spine GameObject (c304_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "iDoll Ocean",
+      "id": "c305",
+      "idle": "l2d/c305/Spine GameObject (c305_00).prefab",
+      "battle": "l2d/c305/Spine GameObject (c305_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Soldier OW",
+      "id": "c306",
+      "idle": "l2d/c306/Spine GameObject (c306_00).prefab",
+      "battle": "l2d/c306/Spine GameObject (c306_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Product 23",
+      "id": "c307",
+      "idle": "l2d/c307/Spine GameObject (c307_00).prefab",
+      "battle": "l2d/c307/Spine GameObject (c307_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "iDoll Sun",
+      "id": "c308",
+      "idle": "l2d/c308/Spine GameObject (c308_00).prefab",
+      "battle": "l2d/c308/Spine GameObject (c308_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Ade",
+      "id": "c310",
+      "idle": "l2d/c310/Spine GameObject (c310_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Cocoa",
+      "id": "c311",
+      "idle": "l2d/c311/Spine GameObject (c311_00).prefab",
+      "battle": "l2d/c311/Spine GameObject (c311_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Soda",
+      "id": "c312",
+      "idle": "l2d/c312/Spine GameObject (c312_00).prefab",
+      "battle": "l2d/c312/Spine GameObject (c312_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Bibli",
+      "id": "c320",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Marciana",
+      "id": "c321",
+      "idle": "l2d/c321/Spine GameObject (c321_00).prefab",
+      "battle": "l2d/c321/Spine GameObject (c321_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Crown",
+      "id": "c330",
+      "idle": "l2d/c330/Spine GameObject (c330_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Chime",
+      "id": "c331",
+      "idle": "l2d/c331/Spine GameObject (c331_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Siren",
+      "id": "c340",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Pin",
+      "id": "c342",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Mast",
+      "id": "c350",
+      "idle": "l2d/c350/Spine GameObject (c350_00).prefab",
+      "battle": "l2d/c350/Spine GameObject (c350_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Mast A Pirate's Heart",
+      "id": "c350_01",
+      "idle": "l2d/c350_01/Spine GameObject (c350_01_00).prefab",
+      "battle": "l2d/c350_01/Spine GameObject (c350_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Mast_old",
+      "id": "c350_old",
+      "idle": "l2d/c350_old/Spine GameObject (c350_old_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Anchor",
+      "id": "c351",
+      "idle": "l2d/c351/Spine GameObject (c351_00).prefab",
+      "battle": "l2d/c351/Spine GameObject (c351_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Helm",
+      "id": "c352",
+      "idle": "l2d/c352/Spine GameObject (c352_00).prefab",
+      "battle": "l2d/c352/Spine GameObject (c352_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Helm Chandelier",
+      "id": "c352_01",
+      "idle": "l2d/c352_01/Spine GameObject (c352_01_00).prefab",
+      "battle": "l2d/c352_01/Spine GameObject (c352_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Helm: Aquamarine",
+      "id": "c353",
+      "idle": "l2d/c353/Spine GameObject (c353_00).prefab",
+      "battle": "l2d/c353/Spine GameObject (c353_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Kilo",
+      "id": "c361",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Endless",
+      "id": "c371",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Nero",
+      "id": "c380",
+      "idle": "l2d/c380/Spine GameObject (c380_00).prefab",
+      "battle": "l2d/c380/Spine GameObject (c380_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Biscuit",
+      "id": "c381",
+      "idle": "l2d/c381/Spine GameObject (c381_00).prefab",
+      "battle": "l2d/c381/Spine GameObject (c381_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Leona",
+      "id": "c382",
+      "idle": "l2d/c382/Spine GameObject (c382_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Zwei",
+      "id": "c390",
+      "idle": "l2d/c390/Spine GameObject (c390_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Ein",
+      "id": "c391",
+      "idle": "l2d/c391/Spine GameObject (c391_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Rei",
+      "id": "c392",
+      "idle": "l2d/c392/Spine GameObject (c392_00).prefab",
+      "battle": "l2d/c392/Spine GameObject (c392_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Guilty",
+      "id": "c400",
+      "idle": "l2d/c400/Spine GameObject (c400_00).prefab",
+      "battle": "l2d/c400/Spine GameObject (c400_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Sin",
+      "id": "c401",
+      "idle": "l2d/c401/Spine GameObject (c401_00).prefab",
+      "battle": "l2d/c401/Spine GameObject (c401_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Quency",
+      "id": "c402",
+      "idle": "l2d/c402/Spine GameObject (c402_00).prefab",
+      "battle": "l2d/c402/Spine GameObject (c402_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Noise",
+      "id": "c430",
+      "idle": "l2d/c430/Spine GameObject (c430_00).prefab",
+      "battle": "l2d/c430/Spine GameObject (c430_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Noise Cherry Blossom Stage",
+      "id": "c430_01",
+      "idle": "l2d/c430_01/Spine GameObject (c430_01_00).prefab",
+      "battle": "l2d/c430_01/Spine GameObject (c430_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Volume",
+      "id": "c431",
+      "idle": "l2d/c431/Spine GameObject (c431_00).prefab",
+      "battle": "l2d/c431/Spine GameObject (c431_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Aria",
+      "id": "c432",
+      "idle": "l2d/c432/Spine GameObject (c432_00).prefab",
+      "battle": "l2d/c432/Spine GameObject (c432_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Naga",
+      "id": "c450",
+      "idle": "l2d/c450/Spine GameObject (c450_00).prefab",
+      "battle": "l2d/c450/Spine GameObject (c450_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Tia",
+      "id": "c451",
+      "idle": "l2d/c451/Spine GameObject (c451_00).prefab",
+      "battle": "l2d/c451/Spine GameObject (c451_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Red Hood",
+      "id": "c470",
+      "idle": "l2d/c470/Spine GameObject (c470_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Makima",
+      "id": "c800",
+      "idle": "l2d/c800/Spine GameObject (c800_00).prefab",
+      "battle": "l2d/c800/Spine GameObject (c800_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Makima Coat Off",
+      "id": "c800_01",
+      "idle": "l2d/c800_01/Spine GameObject (c800_01_00).prefab",
+      "battle": "l2d/c800_01/Spine GameObject (c800_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Power",
+      "id": "c801",
+      "idle": "l2d/c801/Spine GameObject (c801_00).prefab",
+      "battle": "l2d/c801/Spine GameObject (c801_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Himeno",
+      "id": "c802",
+      "idle": "l2d/c802/Spine GameObject (c802_00).prefab",
+      "battle": "l2d/c802/Spine GameObject (c802_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Denji",
+      "id": "c803",
+      "idle": "l2d/c803/Spine GameObject (c803_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Denji Chainsaw Man",
+      "id": "c803_01",
+      "idle": "l2d/c803_01/Spine GameObject (c803_01_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Aki Hayakawa",
+      "id": "c804",
+      "idle": "l2d/c804/Spine GameObject (c804_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "2B",
+      "id": "c810",
+      "idle": "l2d/c810/Spine GameObject (c810_00).prefab",
+      "battle": "l2d/c810/Spine GameObject (c810_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "2B Metamorphic Damage",
+      "id": "c810_01",
+      "idle": "l2d/c810_01/Spine GameObject (c810_01_00).prefab",
+      "battle": "l2d/c810_01/Spine GameObject (c810_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "2B YoRHa Uniform 1",
+      "id": "c810_02",
+      "idle": "l2d/c810_02/Spine GameObject (c810_02_00).prefab",
+      "battle": "l2d/c810_02/Spine GameObject (c810_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "A2",
+      "id": "c811",
+      "idle": "l2d/c811/Spine GameObject (c811_00).prefab",
+      "battle": "l2d/c811/Spine GameObject (c811_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "A2 Metamorphic Damage",
+      "id": "c811_01",
+      "idle": "l2d/c811_01/Spine GameObject (c811_01_00).prefab",
+      "battle": "l2d/c811_01/Spine GameObject (c811_01_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "A2 YoRHa Uniform Prototype",
+      "id": "c811_02",
+      "idle": "l2d/c811_02/Spine GameObject (c811_02_00).prefab",
+      "battle": "l2d/c811_02/Spine GameObject (c811_02_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Pascal",
+      "id": "c812",
+      "idle": "l2d/c812/Spine GameObject (c812_00).prefab",
+      "battle": "l2d/c812/Spine GameObject (c812_cover_00).prefab",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "9S",
+      "id": "c813",
+      "idle": "l2d/c813/Spine GameObject (c813_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Papillon",
+      "id": "c890"
+    },
+    {
+      "name": "Ingrid",
+      "id": "c900",
+      "idle": "l2d/c900/Spine GameObject (c900_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Syuen",
+      "id": "c901",
+      "idle": "l2d/c901/Spine GameObject (c901_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Mustang",
+      "id": "c902",
+      "idle": "l2d/c902/Spine GameObject (c902_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Andersen",
+      "id": "c903",
+      "idle": "l2d/c903/Spine GameObject (c903_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Andersen Soaked",
+      "id": "c903_01",
+      "idle": "l2d/c903_01/Spine GameObject (c903_01_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Enikk",
+      "id": "c904",
+      "idle": "l2d/c904/Spine GameObject (c904_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Rian",
+      "id": "c905",
+      "idle": "l2d/c905/Spine GameObject (c905_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Shifty",
+      "id": "c907",
+      "idle": "l2d/c907/Spine GameObject (c907_00).prefab",
+      "battle": "l2d/c907/Spine GameObject (c907_cover_00).prefab",
+      "version": 4.0
+    },
+    {
+      "name": "Shifty_old",
+      "id": "c907_01",
+      "idle": "l2d/c907_01/Spine GameObject (c907_01_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "c907",
+      "id": "c907"
+    },
+    {
+      "name": "c909",
+      "id": "c909"
+    },
+    {
+      "name": "Hologram",
+      "id": "c910",
+      "idle": "l2d/c910/Spine GameObject (c910_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless Man",
+      "id": "c911",
+      "idle": "l2d/c911/Spine GameObject (c911_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless Woman",
+      "id": "c912",
+      "idle": "l2d/c912/Spine GameObject (c912_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "c913",
+      "id": "c913"
+    },
+    {
+      "name": "Burningum",
+      "id": "c914",
+      "idle": "l2d/c914/Spine GameObject (c914_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "c915",
+      "id": "c915"
+    },
+    {
+      "name": "Faceless NPC 1",
+      "id": "c916",
+      "idle": "l2d/c916/Spine GameObject (c916_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 2",
+      "id": "c917",
+      "idle": "l2d/c917/Spine GameObject (c917_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 3",
+      "id": "c918",
+      "idle": "l2d/c918/Spine GameObject (c918_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 4",
+      "id": "c919",
+      "idle": "l2d/c919/Spine GameObject (c919_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 5",
+      "id": "c920",
+      "idle": "l2d/c920/Spine GameObject (c920_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 6",
+      "id": "c921",
+      "idle": "l2d/c921/Spine GameObject (c921_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 7",
+      "id": "c922",
+      "idle": "l2d/c922/Spine GameObject (c922_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 8",
+      "id": "c923",
+      "idle": "l2d/c923/Spine GameObject (c923_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Faceless NPC 9",
+      "id": "c924",
+      "idle": "l2d/c924/Spine GameObject (c924_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Johan",
+      "id": "c925",
+      "idle": "l2d/c925/Spine GameObject (c925_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Einkk",
+      "id": "c928",
+      "idle": "l2d/c928/Spine GameObject (c928_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Cecil",
+      "id": "c929",
+      "idle": "l2d/c929/Spine GameObject (c929_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Beatrice",
+      "id": "c930",
+      "idle": "l2d/c930/Spine GameObject (c930_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Collection Robot",
+      "id": "c931",
+      "idle": "l2d/c931/Spine GameObject (c931_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Bolt Junior",
+      "id": "c932",
+      "idle": "l2d/c932/Spine GameObject (c932_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Bolt",
+      "id": "c933",
+      "idle": "l2d/c933/Spine GameObject (c933_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Angelina",
+      "id": "c934",
+      "idle": "l2d/c934/Spine GameObject (c934_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Joseph",
+      "id": "c935",
+      "idle": "l2d/c935/Spine GameObject (c935_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Max",
+      "id": "c936",
+      "idle": "l2d/c936/Spine GameObject (c936_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Booboo",
+      "id": "c937",
+      "idle": "l2d/c937/Spine GameObject (c937_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Doban",
+      "id": "c939",
+      "idle": "l2d/c939/Spine GameObject (c939_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "E.H.",
+      "id": "c940",
+      "idle": "l2d/c940/Spine GameObject (c940_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Pinne",
+      "id": "c941",
+      "idle": "l2d/c941/Spine GameObject (c941_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "c942",
+      "id": "c942"
+    },
+    {
+      "name": "Liliweiss",
+      "id": "c943"
+    },
+    {
+      "name": "Cinderella",
+      "id": "c944"
+    },
+    {
+      "name": "Katie",
+      "id": "c945",
+      "idle": "l2d/c945/Spine GameObject (c945_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Ruru",
+      "id": "c946",
+      "idle": "l2d/c946/Spine GameObject (c946_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "c960",
+      "id": "c960"
+    },
+    {
+      "name": "c961",
+      "id": "c961"
+    },
+    {
+      "name": "Product 12: B-0006",
+      "id": "c962",
+      "idle": "l2d/c962/Spine GameObject (c962_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Product 12: C-1002",
+      "id": "c963",
+      "idle": "l2d/c963/Spine GameObject (c963_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Product 12: 6000-D",
+      "id": "c964",
+      "idle": "l2d/c964/Spine GameObject (c964_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Old Scarlet",
+      "id": "c965"
+    },
+    {
+      "name": "Old Rapunzel",
+      "id": "c966"
+    },
+    {
+      "name": "Self",
+      "id": "c9999",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Choice",
+      "id": "c9999",
+      "idle": "",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Blue Water Island",
+      "id": "bluewaterisland",
+      "idle": "l2d/bluewaterisland/Spine GameObject (bluewaterisland_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Bow Wow Paradise",
+      "id": "bowwowparadise",
+      "idle": "l2d/bowwowparadise/Spine GameObject (bowwowparadise_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "777",
+      "id": "777",
+      "idle": "l2d/777/Spine GameObject (777_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Cherry Blossom",
+      "id": "cherryblossom",
+      "idle": "l2d/cherryblossom/Spine GameObject (cherryblossom_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Dazzling Cupid Naga",
+      "id": "dazzlingcupid_naga",
+      "idle": "l2d/dazzlingcupid_naga/Spine GameObject (dazzlingcupid_naga_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Dazzling Cupid Tia",
+      "id": "dazzlingcupid_tia",
+      "idle": "l2d/dazzlingcupid_tia/Spine GameObject (dazzlingcupid_tia_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "License to Kill",
+      "id": "ltk",
+      "idle": "l2d/ltk/Spine GameObject (ltk_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Maid in Valentine",
+      "id": "maidinvalentine",
+      "idle": "l2d/maidinvalentine/Spine GameObject (maidinvalentine_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Queen's Order",
+      "id": "queensorder",
+      "idle": "l2d/queensorder/Spine GameObject (queensorder_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Nya Nya Paradise",
+      "id": "nyanyaparadise",
+      "idle": "l2d/nyanyaparadise/Spine GameObject (nyanyaparadise_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Golden Ship",
+      "id": "goldenship",
+      "idle": "l2d/goldenship/Spine GameObject (goldenship_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Sea You Again",
+      "id": "seayouagain",
+      "idle": "l2d/seayouagain/Spine GameObject (seayouagain_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Outer Automata",
+      "id": "outerautomata",
+      "idle": "l2d/outerautomata/Spine GameObject (outerautomata_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "No Caller ID",
+      "id": "nocallerid",
+      "idle": "l2d/nocallerid/Spine GameObject (nocallerid_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "School Of Lock",
+      "id": "schooloflock",
+      "idle": "l2d/schooloflock/Spine GameObject (schooloflock_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Anchor",
+      "id": "smol_anchor",
+      "idle": "l2d/smol_anchor/Spine GameObject (smol_anchor_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Bolt",
+      "id": "smol_bolt",
+      "idle": "l2d/smol_bolt/Spine GameObject (smol_bolt_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Frima",
+      "id": "smol_frima",
+      "idle": "l2d/smol_frima/Spine GameObject (smol_frima_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Helm",
+      "id": "smol_helm",
+      "idle": "l2d/smol_helm/Spine GameObject (smol_helm_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Liter",
+      "id": "smol_liter",
+      "idle": "l2d/smol_liter/Spine GameObject (smol_liter_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Mary",
+      "id": "smol_mary",
+      "idle": "l2d/smol_mary/Spine GameObject (smol_mary_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Mast",
+      "id": "smol_mast",
+      "idle": "l2d/smol_mast/Spine GameObject (smol_mast_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Pepper",
+      "id": "smol_pepper",
+      "idle": "l2d/smol_pepper/Spine GameObject (smol_pepper_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Rapi",
+      "id": "smol_rapi",
+      "idle": "l2d/smol_rapi/Spine GameObject (smol_rapi_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Smol Yan",
+      "id": "smol_yan",
+      "idle": "l2d/smol_yan/Spine GameObject (smol_yan_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 00-01",
+      "id": "story0001",
+      "idle": "l2d/story0001/Spine GameObject (story0001_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 00-01 no filter",
+      "id": "story0001_2",
+      "idle": "l2d/story0001_2/Spine GameObject (story0001_2_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 00-02",
+      "id": "story0002",
+      "idle": "l2d/story0002/Spine GameObject (story0002_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Story 00-02 no filter",
+      "id": "story0002_2",
+      "idle": "l2d/story0002_2/Spine GameObject (story0002_2_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Story 00-03",
+      "id": "story0003",
+      "idle": "l2d/story0003/Spine GameObject (story0003_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 02-01",
+      "id": "story0201",
+      "idle": "l2d/story0201/Spine GameObject (story0201_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 04-01",
+      "id": "story0401",
+      "idle": "l2d/story0401/Spine GameObject (story0401_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 04-02",
+      "id": "story0401_2",
+      "idle": "l2d/story0401_2/Spine GameObject (story0401_2_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 04-05",
+      "id": "story0405",
+      "idle": "l2d/story0405/Spine GameObject (story0405_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 07-02",
+      "id": "story0702",
+      "idle": "l2d/story0702/Spine GameObject (story0702_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 12-01",
+      "id": "story1201",
+      "idle": "l2d/story1201/Spine GameObject (story1201_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 13-02",
+      "id": "story1302",
+      "idle": "l2d/story1302/Spine GameObject (story1302_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 13-03",
+      "id": "story1303",
+      "idle": "l2d/story1303/Spine GameObject (story1303_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 14-01",
+      "id": "story1401",
+      "idle": "l2d/story1401/Spine GameObject (story1401_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Story 14-03",
+      "id": "story1403",
+      "idle": "l2d/story1403/Spine GameObject (story1403_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 14-05",
+      "id": "story1405",
+      "idle": "l2d/story1405/Spine GameObject (story1405_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 15-01",
+      "id": "story1501",
+      "idle": "l2d/story1501/Spine GameObject (story1501_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 19-01",
+      "id": "story1902",
+      "idle": "l2d/story1902/Spine GameObject (story1902_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Story 20-01",
+      "id": "story2002",
+      "idle": "l2d/story2002/Spine GameObject (story2002_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Story 21-01",
+      "id": "story2101",
+      "idle": "l2d/story2101/Spine GameObject (story2101_00).prefab",
+      "battle": "",
+      "version": 4.0
+    },
+    {
+      "name": "Story 22-01",
+      "id": "story2201",
+      "idle": "l2d/story2201/Spine GameObject (story2201_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 22-02",
+      "id": "story2202",
+      "idle": "l2d/story2202/Spine GameObject (story2202_00).prefab",
+      "battle": "",
+      "version": 4.099999904632568
+    },
+    {
+      "name": "Story 22-06",
+      "id": "story2206",
+      "idle": "l2d/story2206/Spine GameObject (story2206_00).prefab",
+      "battle": "",
+      "version": 4.0
+    }
+  ],
+  "scale": 40.0,
+  "youtubePath": "",
+  "imagePath": ""
+}
