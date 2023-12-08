@@ -155,6 +155,10 @@
       "version": 4.0
     },
     {
+      "name": "Mica: Snow Buddy",
+      "id": "c062"
+    },
+    {
       "name": "Brid",
       "id": "c070",
       "idle": "l2d/c070/Spine GameObject (c070_00).prefab",
@@ -540,11 +544,19 @@
       "version": 4.0
     },
     {
+      "name": "Tove",
+      "id": "c192"
+    },
+    {
       "name": "Neve",
       "id": "c193",
       "idle": "l2d/c193/Spine GameObject (c193_00).prefab",
       "battle": "l2d/c193/Spine GameObject (c193_cover_00).prefab",
       "version": 4.0
+    },
+    {
+      "name": "Ludmilla: Winter Owner",
+      "id": "c194"
     },
     {
       "name": "Rupee",
@@ -805,11 +817,19 @@
       "version": 4.099999904632568
     },
     {
+      "name": "Blanc White Rabbit",
+      "id": "c270_01"
+    },
+    {
       "name": "Noir",
       "id": "c271",
       "idle": "l2d/c271/Spine GameObject (c271_00).prefab",
       "battle": "l2d/c271/Spine GameObject (c271_cover_00).prefab",
       "version": 4.099999904632568
+    },
+    {
+      "name": "Noir Black Rabbit",
+      "id": "c271_01"
     },
     {
       "name": "Rouge",
