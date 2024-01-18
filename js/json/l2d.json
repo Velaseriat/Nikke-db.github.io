@@ -408,6 +408,13 @@
       "version": 4.0
     },
     {
+      "name": "Sugar Black",
+      "id": "c140_02",
+      "idle": "l2d/c140_01/Spine GameObject (c140_01_00).prefab",
+      "battle": "l2d/c140_01/Spine GameObject (c140_01_cover_00).prefab",
+      "version": 4.0
+    },
+    {
       "name": "Milk",
       "id": "c141",
       "idle": "l2d/c141/Spine GameObject (c141_00).prefab",
@@ -859,10 +866,7 @@
     },
     {
       "name": "Moran",
-      "id": "c281",
-      "idle": "l2d/c281/Spine GameObject (c281_00).prefab",
-      "battle": "",
-      "version": 4.0
+      "id": "c281"
     },
     {
       "name": "Sakura",
@@ -1097,10 +1101,7 @@
     },
     {
       "name": "Leona",
-      "id": "c382",
-      "idle": "l2d/c382/Spine GameObject (c382_00).prefab",
-      "battle": "",
-      "version": 4.099999904632568
+      "id": "c382"
     },
     {
       "name": "Zwei",
