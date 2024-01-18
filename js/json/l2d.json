@@ -243,6 +243,10 @@
       "version": 4.099999904632568
     },
     {
+      "name": "Liter Cute Sunflower",
+      "id": "c082_02"
+    },
+    {
       "name": "Emma",
       "id": "c090",
       "idle": "l2d/c090/Spine GameObject (c090_00).prefab",
@@ -509,6 +513,10 @@
       "version": 4.0
     },
     {
+      "name": "Guillotine Dark Tracer",
+      "id": "c180_01"
+    },
+    {
       "name": "Maiden",
       "id": "c181",
       "idle": "l2d/c181/Spine GameObject (c181_00).prefab",
@@ -663,6 +671,10 @@
     {
       "name": "Snow White: Innocent Days",
       "id": "c224"
+    },
+    {
+      "name": "Scarlet: Black Shadow",
+      "id": "c225"
     },
     {
       "name": "Rapunzel",
@@ -1145,6 +1157,10 @@
       "idle": "l2d/c430_01/Spine GameObject (c430_01_00).prefab",
       "battle": "l2d/c430_01/Spine GameObject (c430_01_cover_00).prefab",
       "version": 4.0
+    },
+    {
+      "name": "Noise Classic Diva",
+      "id": "c430_02"
     },
     {
       "name": "Volume",
